@@ -1,16 +1,3 @@
-// function login() {
-//     const username = document.getElementById('username').value;
-//     const password = document.getElementById('password').value;
-
-//     // Dummy authentication, replace with your actual authentication logic
-//     if (username === 'user' && password === 'password') {
-//         document.getElementById('loginForm').style.display = 'none';
-//         document.getElementById('securedContent').style.display = 'block';
-//         document.getElementById('message').innerText = 'Login successful!';
-//     } else {
-//         document.getElementById('message').innerText = 'Invalid username or password';
-//     }
-// }
 
 const loginForm = document.getElementById('loginForm');
 const registerForm = document.getElementById('registerForm');
